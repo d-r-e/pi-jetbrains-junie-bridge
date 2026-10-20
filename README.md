@@ -1,11 +1,11 @@
-# @d-r-e/pi-jetbrains-junie-bridge
+# @darodrig/pi-jetbrains-junie-bridge
 
 A [Pi](https://pi.dev/) extension that lets you use [JetBrains Junie](https://junie.jetbrains.com/) as the AI backend for the Pi coding agent — using your existing Junie subscription.
 
 ## Install
 
 ```bash
-pi install npm:@d-r-e/pi-jetbrains-junie-bridge
+pi install npm:@darodrig/pi-jetbrains-junie-bridge
 ```
 
 Then inside `pi` run the `/login` command.  Select `Use a subscription` and then `JetBrains Junie` to authenticate.
